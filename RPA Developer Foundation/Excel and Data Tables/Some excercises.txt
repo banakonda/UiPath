@@ -1,0 +1,6 @@
+Nie mogłem wykonać części zadań związanych z Excelem, ponieważ nie posiadam go (wyskakiwało multum błędów). 
+Nie potrafiłem też znaleźć darmowej wersji, a na Windowsie z Politechniki nie otrzymałem w pakiecie Excela.
+
+W związku z tym zapoznałem się jedynie z filmikami przedstawiającymi krok po kroku jak tworzyć Procesy związane z Excelem i teorię o nich, jednak nie byłem w stanie zrobić poprawnie działającej aplikacji.
+
+Test teoretyczny pod koniec tego rozdziału kursu zdałem na 100%.
